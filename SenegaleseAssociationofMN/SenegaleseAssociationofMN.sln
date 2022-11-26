@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAM", "SAM\SAM.csproj", "{408806FD-2181-4C7D-9790-FB133AEE7824}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SAMDB", "SAMDB\SAMDB.sqlproj", "{73BAD48D-C09D-4176-9753-C6520FD193B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{4C849725-778B-4A41-BC96-A0125C3EEE9B}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://samminnesota.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DataAccess\\DataAccess.csproj
+		SccProjectName1 = DataAccess
+		SccLocalPath1 = DataAccess
+		SccProjectUniqueName2 = SAM\\SAM.csproj
+		SccProjectName2 = SAM
+		SccLocalPath2 = SAM
+		SccProjectUniqueName3 = SAMDB\\SAMDB.sqlproj
+		SccProjectName3 = SAMDB
+		SccLocalPath3 = SAMDB
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{408806FD-2181-4C7D-9790-FB133AEE7824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408806FD-2181-4C7D-9790-FB133AEE7824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{408806FD-2181-4C7D-9790-FB133AEE7824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408806FD-2181-4C7D-9790-FB133AEE7824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73BAD48D-C09D-4176-9753-C6520FD193B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BAD48D-C09D-4176-9753-C6520FD193B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BAD48D-C09D-4176-9753-C6520FD193B7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{73BAD48D-C09D-4176-9753-C6520FD193B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BAD48D-C09D-4176-9753-C6520FD193B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73BAD48D-C09D-4176-9753-C6520FD193B7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4C849725-778B-4A41-BC96-A0125C3EEE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C849725-778B-4A41-BC96-A0125C3EEE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C849725-778B-4A41-BC96-A0125C3EEE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C849725-778B-4A41-BC96-A0125C3EEE9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

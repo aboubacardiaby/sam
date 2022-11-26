@@ -1,0 +1,12 @@
+C:\Users\aboub\source\tfs\SAM\SenegaleseAssociationofMN\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\aboub\source\tfs\SAM\SenegaleseAssociationofMN\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\aboub\source\tfs\SAM\SenegaleseAssociationofMN\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\aboub\source\tfs\SAM\SenegaleseAssociationofMN\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\aboub\source\tfs\SAM\SenegaleseAssociationofMN\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aboub\source\tfs\SAM\SenegaleseAssociationofMN\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\aboub\source\tfs\SAM\SenegaleseAssociationofMN\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aboub\source\tfs\SAM\SenegaleseAssociationofMN\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\aboub\source\tfs\SAM\SenegaleseAssociationofMN\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\aboub\source\tfs\SAM\SenegaleseAssociationofMN\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\aboub\source\tfs\SAM\SenegaleseAssociationofMN\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\aboub\source\tfs\SAM\SenegaleseAssociationofMN\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
