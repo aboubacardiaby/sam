@@ -10,3 +10,15 @@ C:\Users\aboub\source\tfs\SAM\SenegaleseAssociationofMN\DataAccess\obj\Debug\Dat
 C:\Users\aboub\source\tfs\SAM\SenegaleseAssociationofMN\DataAccess\obj\Debug\DataAccess.pdb
 C:\Users\aboub\source\tfs\SAM\SenegaleseAssociationofMN\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
 C:\Users\aboub\source\tfs\SAM\SenegaleseAssociationofMN\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\adiaby\source\repos\sam\sam\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\adiaby\source\repos\sam\sam\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\adiaby\source\repos\sam\sam\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\adiaby\source\repos\sam\sam\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\adiaby\source\repos\sam\sam\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adiaby\source\repos\sam\sam\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\adiaby\source\repos\sam\sam\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adiaby\source\repos\sam\sam\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\adiaby\source\repos\sam\sam\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\adiaby\source\repos\sam\sam\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\adiaby\source\repos\sam\sam\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\adiaby\source\repos\sam\sam\DataAccess\obj\Debug\DataAccess.pdb

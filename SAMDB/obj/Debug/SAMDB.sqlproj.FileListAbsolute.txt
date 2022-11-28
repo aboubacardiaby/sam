@@ -7,3 +7,5 @@ C:\Users\aboub\Source\tfs\SAM\SenegaleseAssociationofMN\SAMDB\obj\Debug\Model.xm
 C:\Users\aboub\Source\tfs\SAM\SenegaleseAssociationofMN\SAMDB\obj\Debug\refactor.xml
 C:\Users\aboub\Source\tfs\SAM\SenegaleseAssociationofMN\SAMDB\obj\Debug\postdeploy.sql
 C:\Users\aboub\Source\tfs\SAM\SenegaleseAssociationofMN\SAMDB\obj\Debug\predeploy.sql
+C:\Users\adiaby\source\repos\sam\sam\SAMDB\obj\Debug\SAMDB.dll
+C:\Users\adiaby\source\repos\sam\sam\SAMDB\obj\Debug\SAMDB.pdb
